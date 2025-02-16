@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on Ransomware Analysis and Decryption  
+# 😉 About Me:
+🔭 I’m currently Pursuing Bachelor Of Engineering in Computer Science and Engineering 
 🌱 I’m currently learning Advanced Bug Bounty Techniques  
 👯 I’m looking to collaborate on Cybersecurity Research & Web App Security  
 🤔 I’m looking for help with Real-world Exploit Development  
@@ -21,13 +21,23 @@
 
 ---
 
+## 🔍 Penetration Testing Activities:
+- **Reconnaissance:** Passive and active reconnaissance using OSINT tools, subdomain enumeration, and directory brute-forcing.  
+- **Vulnerability Assessment:** Scanning for CVEs, misconfigurations, and weak authentication mechanisms.  
+- **Exploitation:** Proof-of-concept exploits for web applications, API vulnerabilities, and privilege escalation techniques.  
+- **Post-Exploitation:** Maintaining access, data exfiltration testing, and lateral movement simulations.  
+- **Reporting:** Creating detailed security reports with risk assessment and mitigation steps.  
+
+---
+
 ## 💻 Tech Stack:
-| Tech | |
+| Category | Technologies |
 |------|----------------|
-| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| **Backend & DevOps** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) |
-| **Tools & Others** | ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) |
+| **Pentesting Tools** | ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5722?style=flat&logo=burp-suite&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0078D7?style=flat&logo=nmap&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-0088CC?style=flat&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Sqlmap](https://img.shields.io/badge/Sqlmap-%23FFCE00.svg?style=flat&logo=python&logoColor=black) |
+| **Web & API Security** | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-000000?style=flat&logo=owasp&logoColor=white) |
+| **Version Control & Deployment** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| **OS & Environments** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
 
 ---
 
@@ -40,11 +50,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sGowthamhacker&limit=5&theme=dark&combine_all_yearly_contributions=true)  
 
 ---
 
