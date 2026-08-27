@@ -116,22 +116,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sGowthamhacker&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sGowthamhacker&theme=neon&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sGowthamhacker&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=sGowthamhacker&theme=algolia&no-frame=true&row=1&column=6)
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 ## 🧩 Key Competencies
 
 `Business Logic Testing` `Bug Hunting` `Logic Flaw Identification` `Security Research` `VAPT` `Vulnerability Assessment` `Threat Modeling` `Full-Stack Development` `AI Agent Integration` `IoT Tracking` `Vibe Coding` `Python` `Java` `SQL` `REST API & GraphQL Security` `JWT & OAuth2` `RBAC` `Secure Code Review` `OWASP Top 10` `OSINT` `SAST/DAST` `Kali Linux` `Burp Suite` `Metasploit` `DevSecOps` `Firebase` `Supabase` `MySQL` `PostgreSQL` `Docker` `CI/CD Security` `NDA Project Execution` `Automation Setup` `Problem Solving`
