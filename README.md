@@ -6,9 +6,10 @@
 
 📧 gowthamscoder@gmail.com&nbsp;&nbsp;|&nbsp;&nbsp;📱 +91 9346082957&nbsp;&nbsp;|&nbsp;&nbsp;📍 Perambalur, Tamil Nadu
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gowtham-s-528631249)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/sGowthamhacker)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1769ff?logo=vercel&logoColor=white)](https://gowthamsecs.vercel.app)
+
+![Profile Views](https://visitcount.itsvg.in/api?id=sGowthamhacker&icon=0&color=13)
 
 </div>
 
@@ -114,6 +115,22 @@
 🏆 **Certified AppSec Practitioner (CAP)** — The SecOps Group (2023)
 🏆 **Vulnerability Management** — Security Blue Team (2023)
 🏆 **EHE & NDE** — EC-Council (2023)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sGowthamhacker&theme=neon&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sGowthamhacker&theme=neon&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sGowthamhacker&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=sGowthamhacker&theme=algolia&no-frame=true&row=1&column=6)
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
 
 ---
 
